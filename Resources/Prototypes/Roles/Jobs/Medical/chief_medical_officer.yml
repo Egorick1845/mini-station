@@ -11,9 +11,9 @@
       time: 36000 # 10 hours
     - !type:RoleTimeRequirement
       role: JobMedicalDoctor
-      time: 72000 # 20 hours
+      time: 36000 # 10 hours
     - !type:OverallPlaytimeRequirement
-      time: 144000 # 40 hours
+      time: 72000 # 20 hours
     - !type:AgeRequirement
       requiredAge: 24
   weight: 10

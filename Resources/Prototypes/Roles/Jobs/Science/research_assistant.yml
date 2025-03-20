@@ -8,7 +8,7 @@
       time: 3600 # 1 hours
     - !type:DepartmentTimeRequirement
       department: Science
-      time: 54000 # 15 hours
+      time: 18000 # 5 hours
       inverted: true # stop playing intern if you're good at science!
   startingGear: ResearchAssistantGear
   icon: "JobIconResearchAssistant"

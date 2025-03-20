@@ -5,7 +5,7 @@
   playTimeTracker: JobCargoTechnician
   requirements:
     - !type:OverallPlaytimeRequirement
-        time: 3600 # 1 hour
+        time: 1800 # 30 минутс
   startingGear: CargoTechGear
   icon: "JobIconCargoTechnician"
   supervisors: job-supervisors-qm

@@ -7,12 +7,12 @@
   requirements:
     - !type:DepartmentTimeRequirement
       department: Silicon
-      time: 72000 # 20 hours
+      time: 36000 # 10 hours
     - !type:DepartmentTimeRequirement
       department: Command
-      time: 72000 # 20 hours
+      time: 36000 # 10 hours
     - !type:OverallPlaytimeRequirement
-      time: 648000 # 180 hours
+      time: 432000 # 120 hours
   weight: 18
   canBeAntag: false
   icon: JobIconStationAi
