@@ -120,9 +120,9 @@
   id: DeimosNewYear
   background: /Textures/LobbyScreens/Fobos/deimos_new_year.webp
 
-- type: lobbyBackground
-  id: FobosNewYear
-  background: /Textures/LobbyScreens/Fobos/fobos_new_year.webp
+#- type: lobbyBackground
+#  id: FobosNewYear
+#  background: /Textures/LobbyScreens/Fobos/fobos_new_year.webp
 
 - type: lobbyBackground
   id: MarinesNewYear

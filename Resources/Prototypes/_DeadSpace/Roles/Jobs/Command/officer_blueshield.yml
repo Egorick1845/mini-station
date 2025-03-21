@@ -6,18 +6,18 @@
   requirements:
     - !type:DepartmentTimeRequirement
       department: Engineering
-      time: 36000 # 10 hours
+      time: 3600 # 1 hour
     - !type:DepartmentTimeRequirement
       department: Medical
-      time: 36000 # 10 hours
+      time: 3600 # 10 hour
     - !type:RoleTimeRequirement
       role: JobHeadOfSecurity
-      time: 36000 # 10 hours
+      time: 3600 # 1 hour
     - !type:DepartmentTimeRequirement
       department: Command
-      time: 36000 # 10 hours
+      time: 3600 # 1 hour
     - !type:OverallPlaytimeRequirement
-      time: 324000 # 90 hours
+      time: 32400 # 9 hours
     - !type:AgeRequirement
       requiredAge: 24
   startingGear: BlueShieldOfficerGear
@@ -122,9 +122,9 @@
       - id: Zipties
         amount: 3
       - id: ADTtelescopicBaton # ADT
-      - id: MagazinePistolSubMachineGun
+      - id: MagazineMiniMachineGunBox
         amount: 4
-      - id: WeaponSubMachineGunDrozd
+      - id: WeaponMiniMachineGun
       - id: HandheldCrewMonitor
   - type: ExplosionResistance
     damageCoefficient: 0.6
