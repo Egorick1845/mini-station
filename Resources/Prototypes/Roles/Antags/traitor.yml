@@ -7,10 +7,10 @@
   requirements:
     - !type:DepartmentTimeRequirement
       department: Medical
-      time: 36000 # 10 hours
+      time: 3600 # 1 hours
     - !type:DepartmentTimeRequirement
       department: Security
-      time: 36000 # 10 hours
+      time: 3600 # 1 hours
   # guides: [ Traitors ] # DS14: disabled due to lack of localization
 
 - type: antag

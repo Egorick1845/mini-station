@@ -6,4 +6,4 @@
   objective: roles-antag-blob-objective
   requirements:
   - !type:OverallPlaytimeRequirement
-    time: 54000 # 15h # Corvax-RoleTime
+    time: 3600 # 1h # Corvax-RoleTime

@@ -20,15 +20,12 @@
   setPreference: true
   objective: roles-antag-nuclear-operative-agent-objective
   requirements:
-    - !type:DepartmentTimeRequirement
-      department: Medical
-      time: 144000 # 40 hours
     - !type:RoleTimeRequirement
       role: JobChemist
-      time: 72000 # 20 hours
+      time: 3600 # 1 hours
     - !type:DepartmentTimeRequirement
       department: Security
-      time: 72000 # 20 hours
+      time: 3600 # 1 hours
   # guides: [ NuclearOperatives ] # DS14: disabled due to lack of localization
 
 - type: antag

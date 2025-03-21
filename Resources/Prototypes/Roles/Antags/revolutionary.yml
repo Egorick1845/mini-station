@@ -6,10 +6,10 @@
   objective: roles-antag-rev-head-objective
   requirements:
     - !type:OverallPlaytimeRequirement
-      time: 360000 # 100 hours
+      time: 3600 # 1 hours
     - !type:DepartmentTimeRequirement
       department: Security
-      time: 72000 # 20 hours
+      time: 3600 # 1 hours
   # guides: [ Revolutionaries ] # DS14: disabled due to lack of localization
 
 - type: antag
